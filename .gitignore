@@ -1,3 +1,5 @@
 system
 .DS_Store
 application/cache/*
+vendor
+composer.lock
